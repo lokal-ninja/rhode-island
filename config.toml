@@ -1,0 +1,15 @@
+baseURL = "https://shoogle.us/rhode-island"
+languageCode = "en-US"
+title = "Rhode Island"
+theme = "ln-base-en"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "rhode-island"
