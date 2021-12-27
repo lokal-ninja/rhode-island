@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /north-smithfield/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

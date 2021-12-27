@@ -1,6 +1,6 @@
 ---
 title: Chepachet
 url: /chepachet/
-latitude: 41.915099700000006
-longitude: -71.67145860000001
+latitude: 41.907
+longitude: -71.662
 ---

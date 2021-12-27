@@ -1,6 +1,6 @@
 ---
 title: Tiverton
 url: /tiverton/
-latitude: 41.6257406
-longitude: -71.16633300000001
+latitude: 41.663
+longitude: -71.19
 ---

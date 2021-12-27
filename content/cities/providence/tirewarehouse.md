@@ -1,5 +1,5 @@
 ---
 title: "TireWarehouse"
 url: /providence/tirewarehouse/
-shop: tyres
+shop: Reifen
 ---

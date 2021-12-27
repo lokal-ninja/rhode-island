@@ -1,6 +1,6 @@
 ---
 title: Middletown
 url: /middletown/
-latitude: 41.5456578
-longitude: -71.29143880000001
+latitude: 41.538
+longitude: -71.294
 ---

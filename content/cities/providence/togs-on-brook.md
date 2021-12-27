@@ -1,5 +1,5 @@
 ---
 title: "Togs on Brook"
 url: /providence/togs-on-brook/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /cranston/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

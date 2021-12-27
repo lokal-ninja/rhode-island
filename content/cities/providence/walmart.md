@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /providence/walmart/
-shop: supermarket
+shop: Supermarkt
 ---
