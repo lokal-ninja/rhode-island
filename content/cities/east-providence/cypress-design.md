@@ -1,5 +1,5 @@
 ---
 title: "Cypress Design"
 url: /east-providence/cypress-design/
-shop: Baumarkt
+shop: doityourself
 ---

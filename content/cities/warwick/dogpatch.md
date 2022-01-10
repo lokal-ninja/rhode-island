@@ -1,5 +1,5 @@
 ---
 title: "Dogpatch"
 url: /warwick/dogpatch/
-shop: Tiersalon
+shop: pet grooming
 ---

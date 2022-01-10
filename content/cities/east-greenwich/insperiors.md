@@ -1,5 +1,5 @@
 ---
 title: "Insperiors"
 url: /east-greenwich/insperiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

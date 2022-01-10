@@ -1,5 +1,5 @@
 ---
 title: "PVDonuts"
 url: /providence/pvdonuts/
-shop: Konditorei
+shop: pastry
 ---

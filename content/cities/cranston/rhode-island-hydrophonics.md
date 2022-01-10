@@ -1,5 +1,5 @@
 ---
 title: "Rhode Island Hydrophonics"
 url: /cranston/rhode-island-hydrophonics/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /warwick/kohls/
-shop: Warenhaus
+shop: department store
 ---

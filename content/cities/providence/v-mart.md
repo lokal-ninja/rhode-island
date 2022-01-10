@@ -1,5 +1,5 @@
 ---
 title: "V-Mart"
 url: /providence/v-mart/
-shop: Supermarkt
+shop: supermarket
 ---

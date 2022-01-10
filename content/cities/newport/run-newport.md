@@ -1,5 +1,5 @@
 ---
 title: "Run Newport"
 url: /newport/run-newport/
-shop: Schuhe
+shop: shoes
 ---

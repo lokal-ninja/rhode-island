@@ -1,5 +1,5 @@
 ---
 title: "Studio 42"
 url: /east-greenwich/studio-42/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Simple Pleasures"
 url: /charlestown/simple-pleasures/
-shop: Andenken
+shop: gift
 ---

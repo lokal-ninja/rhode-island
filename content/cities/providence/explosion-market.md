@@ -1,5 +1,5 @@
 ---
 title: "Explosion Market"
 url: /providence/explosion-market/
-shop: Lebensmittel
+shop: convenience
 ---

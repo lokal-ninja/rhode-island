@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /cranston/aarons/
-shop: Möbel
+shop: furniture
 ---

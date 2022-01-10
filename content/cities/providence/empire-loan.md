@@ -1,5 +1,5 @@
 ---
 title: "Empire Loan"
 url: /providence/empire-loan/
-shop: Leiher
+shop: pawnbroker
 ---

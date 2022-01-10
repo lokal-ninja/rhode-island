@@ -1,5 +1,5 @@
 ---
 title: "Brumble Bikes"
 url: /westerly/brumble-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

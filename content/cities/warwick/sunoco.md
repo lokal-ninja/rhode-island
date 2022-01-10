@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /warwick/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

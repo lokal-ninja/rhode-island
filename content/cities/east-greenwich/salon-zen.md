@@ -1,5 +1,5 @@
 ---
 title: "Salon Zen"
 url: /east-greenwich/salon-zen/
-shop: Friseur
+shop: hairdresser
 ---

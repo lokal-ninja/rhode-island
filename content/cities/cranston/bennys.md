@@ -1,5 +1,5 @@
 ---
 title: "Benny's"
 url: /cranston/bennys/
-shop: Warenhaus
+shop: department store
 ---

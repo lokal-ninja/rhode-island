@@ -1,5 +1,5 @@
 ---
 title: "Ocean State Job Lot"
 url: /north-kingstown/ocean-state-job-lot/
-shop: Kramladen
+shop: variety store
 ---

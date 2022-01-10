@@ -1,5 +1,5 @@
 ---
 title: "Sundance"
 url: /east-greenwich/sundance/
-shop: Massage
+shop: massage
 ---

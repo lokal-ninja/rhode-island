@@ -1,5 +1,5 @@
 ---
 title: "Hairloom Coiffure"
 url: /east-greenwich/hairloom-coiffure/
-shop: Friseur
+shop: hairdresser
 ---

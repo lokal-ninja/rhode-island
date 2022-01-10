@@ -1,5 +1,5 @@
 ---
 title: "McQuaid's Market"
 url: /jamestown/mcquaids-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /coventry/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

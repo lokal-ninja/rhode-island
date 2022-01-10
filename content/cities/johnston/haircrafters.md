@@ -1,5 +1,5 @@
 ---
 title: "Haircrafters"
 url: /johnston/haircrafters/
-shop: Friseur
+shop: hairdresser
 ---

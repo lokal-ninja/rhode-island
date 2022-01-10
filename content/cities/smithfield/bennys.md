@@ -1,5 +1,5 @@
 ---
 title: "Benny's"
 url: /smithfield/bennys/
-shop: Baumarkt
+shop: doityourself
 ---
