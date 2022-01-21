@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /johnston/aldi/
 shop: supermarket
 ---
