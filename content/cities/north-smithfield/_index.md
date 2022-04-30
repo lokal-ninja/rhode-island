@@ -1,6 +1,6 @@
 ---
 title: North Smithfield
 url: /north-smithfield/
-latitude: 41.976
-longitude: -71.506
+latitude: 41.979
+longitude: -71.514
 ---
