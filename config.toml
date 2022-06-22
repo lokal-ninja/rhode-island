@@ -1,4 +1,4 @@
-baseURL = "https://us.shoogle.net/rhode-island"
+baseURL = "https://us.shoogle.net/rhode-island/"
 languageCode = "en-US"
 title = "Rhode Island"
 theme = "ln-base"
