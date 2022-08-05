@@ -1,5 +1,0 @@
----
-title: "Speedway"
-url: /providence/speedway-3/
-shop: convenience
----
