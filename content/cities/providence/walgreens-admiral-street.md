@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /providence/walgreens-3/
+url: /providence/walgreens/
 shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /newport/stop-and-shop-2/
+url: /newport/stop-and-shop/
 shop: supermarket
 ---

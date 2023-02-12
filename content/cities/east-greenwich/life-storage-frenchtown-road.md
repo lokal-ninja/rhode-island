@@ -1,5 +1,5 @@
 ---
 title: "Life Storage"
-url: /east-greenwich/life-storage-2/
+url: /east-greenwich/life-storage/
 shop: storage rental
 ---
