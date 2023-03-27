@@ -1,6 +1,6 @@
 ---
 title: East Greenwich
 url: /east-greenwich/
-latitude: 41.638
-longitude: -71.468
+latitude: 41.636
+longitude: -71.469
 ---
