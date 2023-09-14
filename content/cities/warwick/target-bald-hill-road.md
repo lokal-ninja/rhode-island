@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /warwick/target/
+url: /warwick/target-bald-hill-road/
 shop: department store
 ---

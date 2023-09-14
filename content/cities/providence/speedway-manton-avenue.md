@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /providence/speedway/
+url: /providence/speedway-manton-avenue/
 shop: convenience
 ---
