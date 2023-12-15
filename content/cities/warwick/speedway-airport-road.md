@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /warwick/speedway-post-road/
+url: /warwick/speedway-airport-road/
 shop: convenience
 ---
