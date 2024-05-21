@@ -1,6 +1,6 @@
 ---
 title: Central Falls
 url: /central-falls/
-latitude: 41.898
-longitude: -71.389
+latitude: 41.891
+longitude: -71.387
 ---
