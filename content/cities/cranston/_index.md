@@ -1,6 +1,6 @@
 ---
 title: Cranston
 url: /cranston/
-latitude: 41.755
-longitude: -71.456
+latitude: 41.797
+longitude: -71.444
 ---
