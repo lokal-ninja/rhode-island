@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /newport/stop-and-shop-connell-highway/
+url: /newport/stop-and-shop-bellevue-avenue/
 shop: supermarket
 ---
