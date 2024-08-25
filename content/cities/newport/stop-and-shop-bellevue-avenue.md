@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /warwick/stop-and-shop-quaker-lane/
+url: /newport/stop-and-shop-bellevue-avenue/
 shop: supermarket
 ---
