@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /smithfield/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

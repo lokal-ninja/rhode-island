@@ -1,5 +1,5 @@
 ---
 title: "Entwined"
 url: /charlestown/entwined/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alchemy"
 url: /providence/alchemy/
-shop: music
+shop: Musik
 ---

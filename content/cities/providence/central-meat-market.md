@@ -1,5 +1,5 @@
 ---
 title: "Central Meat Market"
 url: /providence/central-meat-market/
-shop: butcher
+shop: Metzgerei
 ---

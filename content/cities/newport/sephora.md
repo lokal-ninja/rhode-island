@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /newport/sephora/
-shop: beauty
+shop: Kosmetik
 ---

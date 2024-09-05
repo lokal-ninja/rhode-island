@@ -1,5 +1,5 @@
 ---
 title: "Strands"
 url: /providence/strands/
-shop: hairdresser
+shop: Friseur
 ---

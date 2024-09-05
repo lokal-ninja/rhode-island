@@ -1,5 +1,5 @@
 ---
 title: "Seasons"
 url: /woonsocket/seasons/
-shop: convenience
+shop: Lebensmittel
 ---

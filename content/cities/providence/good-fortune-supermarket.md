@@ -1,5 +1,5 @@
 ---
 title: "Good Fortune Supermarket"
 url: /providence/good-fortune-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /johnston/valvoline/
-shop: car repair
+shop: Autowerkstatt
 ---

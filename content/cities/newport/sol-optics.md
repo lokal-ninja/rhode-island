@@ -1,5 +1,5 @@
 ---
 title: "Sol Optics"
 url: /newport/sol-optics/
-shop: boutique
+shop: Modehaus
 ---

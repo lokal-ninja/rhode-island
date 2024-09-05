@@ -1,5 +1,5 @@
 ---
 title: "Bannon Tile"
 url: /east-greenwich/bannon-tile/
-shop: tiles
+shop: Fliesen
 ---

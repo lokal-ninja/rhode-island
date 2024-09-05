@@ -1,5 +1,5 @@
 ---
 title: "Lotus"
 url: /newport/lotus/
-shop: gift
+shop: Andenken
 ---

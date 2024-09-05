@@ -1,5 +1,5 @@
 ---
 title: "Footaction"
 url: /warwick/footaction/
-shop: shoes
+shop: Schuhe
 ---
