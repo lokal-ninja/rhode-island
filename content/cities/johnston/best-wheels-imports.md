@@ -1,5 +1,5 @@
 ---
 title: "Best Wheels Imports"
 url: /johnston/best-wheels-imports/
-shop: Autohaus
+shop: car
 ---

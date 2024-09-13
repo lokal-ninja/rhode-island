@@ -1,5 +1,5 @@
 ---
 title: "Olympic Records"
 url: /providence/olympic-records/
-shop: Musik
+shop: music
 ---

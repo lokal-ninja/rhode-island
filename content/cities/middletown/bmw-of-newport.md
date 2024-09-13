@@ -1,5 +1,5 @@
 ---
 title: "BMW of Newport"
 url: /middletown/bmw-of-newport/
-shop: Autohaus
+shop: car
 ---

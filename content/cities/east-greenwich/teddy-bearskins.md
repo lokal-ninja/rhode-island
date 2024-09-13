@@ -1,5 +1,5 @@
 ---
 title: "Teddy Bearskins"
 url: /east-greenwich/teddy-bearskins/
-shop: Kleidung
+shop: clothes
 ---

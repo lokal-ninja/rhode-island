@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /warwick/petco/
-shop: Tiere
+shop: pet
 ---

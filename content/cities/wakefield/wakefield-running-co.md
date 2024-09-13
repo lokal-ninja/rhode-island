@@ -1,5 +1,5 @@
 ---
 title: "Wakefield Running Co"
 url: /wakefield/wakefield-running-co/
-shop: Schuhe
+shop: shoes
 ---

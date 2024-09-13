@@ -1,5 +1,5 @@
 ---
 title: "Connors Viccione"
 url: /east-greenwich/connors-viccione/
-shop: Massage
+shop: massage
 ---

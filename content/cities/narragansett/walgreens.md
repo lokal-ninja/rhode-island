@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /narragansett/walgreens/
-shop: Drogerie
+shop: chemist
 ---

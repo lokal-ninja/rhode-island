@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /providence/trader-joes/
-shop: Supermarkt
+shop: supermarket
 ---

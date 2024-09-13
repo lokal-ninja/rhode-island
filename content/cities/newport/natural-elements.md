@@ -1,5 +1,5 @@
 ---
 title: "Natural Elements"
 url: /newport/natural-elements/
-shop: Schmuck
+shop: jewelry
 ---

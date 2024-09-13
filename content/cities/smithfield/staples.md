@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /smithfield/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

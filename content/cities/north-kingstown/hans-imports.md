@@ -1,5 +1,5 @@
 ---
 title: "Hans Imports"
 url: /north-kingstown/hans-imports/
-shop: Autowerkstatt
+shop: car repair
 ---

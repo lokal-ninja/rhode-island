@@ -1,5 +1,5 @@
 ---
 title: "Shades Pier Optical"
 url: /providence/shades-pier-optical/
-shop: Optiker
+shop: optician
 ---

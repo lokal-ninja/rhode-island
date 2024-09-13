@@ -1,5 +1,5 @@
 ---
 title: "Flux Marine"
 url: /bristol/flux-marine/
-shop: Boot
+shop: boat
 ---

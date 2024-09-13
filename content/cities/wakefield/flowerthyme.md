@@ -1,5 +1,5 @@
 ---
 title: "Flowerthyme"
 url: /wakefield/flowerthyme/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /smithfield/petsmart/
-shop: Tiere
+shop: pet
 ---

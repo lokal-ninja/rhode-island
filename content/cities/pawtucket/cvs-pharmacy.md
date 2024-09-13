@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /pawtucket/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

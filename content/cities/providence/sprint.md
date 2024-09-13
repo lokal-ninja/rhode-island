@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /providence/sprint/
-shop: Handy
+shop: mobile phone
 ---

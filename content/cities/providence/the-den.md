@@ -1,5 +1,5 @@
 ---
 title: "The Den"
 url: /providence/the-den/
-shop: Spirituosen
+shop: alcohol
 ---

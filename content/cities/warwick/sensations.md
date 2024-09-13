@@ -1,5 +1,5 @@
 ---
 title: "Sensations"
 url: /warwick/sensations/
-shop: Erotik
+shop: erotic
 ---

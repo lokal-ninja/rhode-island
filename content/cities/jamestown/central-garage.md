@@ -1,5 +1,5 @@
 ---
 title: "Central Garage"
 url: /jamestown/central-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /cranston/gamestop/
-shop: Videospiele
+shop: video games
 ---

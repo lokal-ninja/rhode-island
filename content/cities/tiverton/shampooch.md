@@ -1,5 +1,5 @@
 ---
 title: "Shampooch"
 url: /tiverton/shampooch/
-shop: Tiersalon
+shop: pet grooming
 ---

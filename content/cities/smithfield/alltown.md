@@ -1,5 +1,5 @@
 ---
 title: "Alltown"
 url: /smithfield/alltown/
-shop: Lebensmittel
+shop: convenience
 ---

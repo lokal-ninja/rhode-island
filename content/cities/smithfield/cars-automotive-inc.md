@@ -1,5 +1,5 @@
 ---
 title: "Cars Automotive Inc."
 url: /smithfield/cars-automotive-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

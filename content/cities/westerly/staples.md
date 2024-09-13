@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /westerly/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

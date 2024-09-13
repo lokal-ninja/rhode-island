@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /warwick/speedway-airport-road/
-shop: Lebensmittel
+shop: convenience
 ---

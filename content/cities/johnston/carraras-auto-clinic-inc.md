@@ -1,5 +1,5 @@
 ---
 title: "Carrara's Auto Clinic, Inc."
 url: /johnston/carraras-auto-clinic-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

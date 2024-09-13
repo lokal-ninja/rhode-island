@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /warwick/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

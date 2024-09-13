@@ -1,5 +1,5 @@
 ---
 title: "Micki's Mat"
 url: /newport/mickis-mat/
-shop: Wäscherei
+shop: laundry
 ---

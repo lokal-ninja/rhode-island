@@ -1,5 +1,5 @@
 ---
 title: "Harmony Corner Store"
 url: /glocester/harmony-corner-store/
-shop: Lebensmittel
+shop: convenience
 ---

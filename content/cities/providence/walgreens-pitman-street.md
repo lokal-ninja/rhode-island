@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /providence/walgreens-pitman-street/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Genao Beauty Studio"
 url: /providence/genao-beauty-studio/
-shop: Massage
+shop: massage
 ---

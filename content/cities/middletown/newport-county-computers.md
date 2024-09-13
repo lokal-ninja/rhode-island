@@ -1,5 +1,5 @@
 ---
 title: "Newport County Computers"
 url: /middletown/newport-county-computers/
-shop: Computer
+shop: computer
 ---

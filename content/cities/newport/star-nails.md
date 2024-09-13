@@ -1,5 +1,5 @@
 ---
 title: "Star Nails"
 url: /newport/star-nails/
-shop: Kosmetik
+shop: beauty
 ---

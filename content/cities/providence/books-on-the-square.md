@@ -1,5 +1,5 @@
 ---
 title: "Books On the Square"
 url: /providence/books-on-the-square/
-shop: Bücher
+shop: books
 ---

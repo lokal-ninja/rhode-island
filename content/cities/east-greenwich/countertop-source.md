@@ -1,5 +1,5 @@
 ---
 title: "Countertop Source"
 url: /east-greenwich/countertop-source/
-shop: Küchen
+shop: kitchen
 ---

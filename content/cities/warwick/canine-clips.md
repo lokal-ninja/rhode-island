@@ -1,5 +1,5 @@
 ---
 title: "Canine Clips"
 url: /warwick/canine-clips/
-shop: Tiersalon
+shop: pet grooming
 ---
