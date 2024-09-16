@@ -1,11 +1,11 @@
 id: 828914397
-type: way
+type: node
 latitude: 41.86467
 longitude: -71.48936
 postcode: "02911"
 city: North Providence
-street: "Waterman Avenue"
-housenumber: 146
+street: Waterman Avenue
+housenumber: "146"
 phone: ""
 opening_hours: ""
 website: ""

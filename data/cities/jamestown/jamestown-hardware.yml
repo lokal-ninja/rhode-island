@@ -1,11 +1,11 @@
 id: 257373759
-type: way
+type: node
 latitude: 41.49601
 longitude: -71.36751
 postcode: "02835"
 city: Jamestown
-street: "Narragansett Avenue"
-housenumber: 5
-phone: "+1 401-423-2722"
+street: Narragansett Avenue
+housenumber: "5"
+phone: +1 401-423-2722
 opening_hours: ""
-website: "http://ww3.truevalue.com/jamestowntruevalue/Home.aspx"
+website: http://ww3.truevalue.com/jamestowntruevalue/Home.aspx

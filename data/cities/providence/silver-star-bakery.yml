@@ -1,11 +1,11 @@
 id: 142016995
-type: way
+type: node
 latitude: 41.82245
 longitude: -71.39238
 postcode: "02906"
 city: Providence
-street: "Ives Street"
-housenumber: 150
-phone: "401-421-8013"
+street: Ives Street
+housenumber: "150"
+phone: 401-421-8013
 opening_hours: ""
-website: "https://www.silverstarbakery.com/"
+website: https://www.silverstarbakery.com/

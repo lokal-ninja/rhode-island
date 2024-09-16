@@ -1,11 +1,11 @@
 id: 140439989
-type: way
+type: node
 latitude: 41.76924
 longitude: -71.40676
 postcode: "02905"
 city: Cranston
-street: "Warwick Avenue"
-housenumber: 275
+street: Warwick Avenue
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

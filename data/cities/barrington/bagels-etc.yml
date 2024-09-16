@@ -1,11 +1,11 @@
 id: 712246467
-type: way
+type: node
 latitude: 41.73938
 longitude: -71.30647
 postcode: "02806"
 city: Barrington
-street: "County Road"
-housenumber: 259
+street: County Road
+housenumber: "259"
 phone: "+14012471213"
-opening_hours: "Mo-Sa 07:00-14:30, Su 07:00-14:00"
-website: "https://bagelsetcbarrington.com/"
+opening_hours: Mo-Sa 07:00-14:30, Su 07:00-14:00
+website: https://bagelsetcbarrington.com/

@@ -1,11 +1,11 @@
 id: 555588562
-type: way
+type: node
 latitude: 41.60674
 longitude: -71.50826
 postcode: "02818"
 city: East Greenwich
-street: "South Road"
-housenumber: 800
+street: South Road
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

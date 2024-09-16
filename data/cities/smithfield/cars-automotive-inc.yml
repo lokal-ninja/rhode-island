@@ -1,11 +1,11 @@
 id: 835390753
-type: way
+type: node
 latitude: 41.86765
 longitude: -71.50768
 postcode: "02917"
 city: Smithfield
-street: "Larch Street"
-housenumber: 8
-phone: "+1-401-231-2130"
+street: Larch Street
+housenumber: "8"
+phone: +1-401-231-2130
 opening_hours: ""
 website: ""

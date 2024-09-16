@@ -1,11 +1,11 @@
 id: 548044935
-type: way
+type: node
 latitude: 41.49181
 longitude: -71.4377
 postcode: "02882"
 city: Narragansett
-street: "Boston Neck Road"
-housenumber: 1193
+street: Boston Neck Road
+housenumber: "1193"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1193+boston+neck+rd-narragansett-ri-02882/id=19394"
+website: https://www.walgreens.com/locator/walgreens-1193+boston+neck+rd-narragansett-ri-02882/id=19394

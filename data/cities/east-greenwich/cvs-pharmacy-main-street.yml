@@ -1,11 +1,11 @@
 id: 147176170
-type: way
+type: node
 latitude: 41.65782
 longitude: -71.45306
 postcode: "02818"
 city: East Greenwich
-street: "Main Street"
-housenumber: 507
-phone: "+1-401-884-7044"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.cvs.com/store-locator/cvs-pharmacy-address/507+Main+Street%2C+East+Greenwich+Commons-East+Greenwich-RI-02818/storeid=311"
+street: Main Street
+housenumber: "507"
+phone: +1-401-884-7044
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.cvs.com/store-locator/cvs-pharmacy-address/507+Main+Street%2C+East+Greenwich+Commons-East+Greenwich-RI-02818/storeid=311

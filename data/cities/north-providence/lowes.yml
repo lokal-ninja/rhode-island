@@ -1,11 +1,11 @@
 id: 229334793
-type: way
+type: node
 latitude: 41.86395
 longitude: -71.45533
 postcode: "02904"
 city: North Providence
-street: "Mineral Springs Avenue"
-housenumber: 1703
-phone: "+1 401-215-1596"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ri-north-providence/2863"
+street: Mineral Springs Avenue
+housenumber: "1703"
+phone: +1 401-215-1596
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ri-north-providence/2863

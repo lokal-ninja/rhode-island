@@ -1,11 +1,11 @@
 id: 1229187951
-type: way
+type: node
 latitude: 41.53365
 longitude: -71.29249
 postcode: "02842"
 city: Middletown
-street: "West Main Road"
-housenumber: 1259
+street: West Main Road
+housenumber: "1259"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:30"
+opening_hours: Mo-Fr 08:00-16:30
 website: ""

@@ -1,11 +1,11 @@
 id: 555769410
-type: way
+type: node
 latitude: 41.84641
 longitude: -71.3962
 postcode: "02906"
 city: Providence
-street: "Hope Street"
-housenumber: 721
-phone: "401-537-7979"
-opening_hours: "Tu-Fr 10:30-18:30; Sa 09:30-17:30"
-website: "https://www.fearlessfishmarket.com/"
+street: Hope Street
+housenumber: "721"
+phone: 401-537-7979
+opening_hours: Tu-Fr 10:30-18:30; Sa 09:30-17:30
+website: https://www.fearlessfishmarket.com/

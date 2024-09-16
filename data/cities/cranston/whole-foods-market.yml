@@ -1,11 +1,11 @@
 id: 146579986
-type: way
+type: node
 latitude: 41.75633
 longitude: -71.45615
 postcode: "02920"
 city: Cranston
-street: "Sockanosset Cross Road"
-housenumber: 151
-phone: "+1 401-942-7600"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/cranston"
+street: Sockanosset Cross Road
+housenumber: "151"
+phone: +1 401-942-7600
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/cranston

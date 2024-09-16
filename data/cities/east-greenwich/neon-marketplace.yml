@@ -1,11 +1,11 @@
 id: 1195379498
-type: way
+type: node
 latitude: 41.66374
 longitude: -71.49226
 postcode: "02818"
 city: East Greenwich
-street: "Division Street"
-housenumber: 1149
+street: Division Street
+housenumber: "1149"
 phone: "+14018840702"
-opening_hours: "Su-Sa 06:00-23:00"
+opening_hours: Su-Sa 06:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 147059317
-type: way
+type: node
 latitude: 41.72991
 longitude: -71.47905
 postcode: ""
 city: Warwick
-street: "Pilla Drive"
-housenumber: 20
+street: Pilla Drive
+housenumber: "20"
 phone: ""
-opening_hours: "Su 10:00-16:00; Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "http://bargain-outlets.com/?view_warehouse_number=6294&field_ohio_restricted_=All"
+opening_hours: Su 10:00-16:00; Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: http://bargain-outlets.com/?view_warehouse_number=6294&field_ohio_restricted_=All

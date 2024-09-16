@@ -1,11 +1,11 @@
 id: 1026192793
-type: way
+type: node
 latitude: 41.85685
 longitude: -71.48074
 postcode: "02911"
 city: North Providence
-street: "Smith Street"
-housenumber: 1931
+street: Smith Street
+housenumber: "1931"
 phone: "+14013350963"
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ri/north-providence/24281"
+website: https://www.dollargeneral.com/store-directory/ri/north-providence/24281

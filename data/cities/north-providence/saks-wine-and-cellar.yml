@@ -1,11 +1,11 @@
 id: 831408407
-type: way
+type: node
 latitude: 41.85865
 longitude: -71.48617
 postcode: "02911"
 city: North Providence
-street: "Smith Street"
-housenumber: 2069
+street: Smith Street
+housenumber: "2069"
 phone: ""
 opening_hours: ""
 website: ""

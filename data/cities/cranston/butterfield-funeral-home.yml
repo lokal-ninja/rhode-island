@@ -1,11 +1,11 @@
 id: 141875424
-type: way
+type: node
 latitude: 41.77372
 longitude: -71.43659
 postcode: ""
 city: Cranston
-street: "Pontiac Avenue"
-housenumber: 500
+street: Pontiac Avenue
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

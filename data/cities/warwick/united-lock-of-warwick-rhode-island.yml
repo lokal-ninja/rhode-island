@@ -1,11 +1,11 @@
 id: 874850561
-type: way
+type: node
 latitude: 41.70301
 longitude: -71.45413
 postcode: "02886"
 city: Warwick
-street: "Post Road"
-housenumber: 3016
+street: Post Road
+housenumber: "3016"
 phone: ""
 opening_hours: ""
 website: ""

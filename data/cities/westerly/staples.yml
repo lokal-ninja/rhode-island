@@ -1,11 +1,11 @@
 id: 377304534
-type: way
+type: node
 latitude: 41.35635
 longitude: -71.81152
 postcode: "02891"
 city: Westerly
-street: "Airport Road"
-housenumber: 13
+street: Airport Road
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/ri/westerly/13-airport-road"
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/ri/westerly/13-airport-road

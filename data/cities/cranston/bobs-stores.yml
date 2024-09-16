@@ -4,8 +4,8 @@ latitude: 41.73345
 longitude: -71.47807
 postcode: "02920"
 city: Cranston
-street: "Oaklawn Avenue"
-housenumber: 1400
-phone: "+1 401 463 3322"
-opening_hours: "Mo-Sa 09:30-21:00; Su 09:30-19:00"
-website: "https://www.bobstores.com/store-details?StoreID=007"
+street: Oaklawn Avenue
+housenumber: "1400"
+phone: +1 401 463 3322
+opening_hours: Mo-Sa 09:30-21:00; Su 09:30-19:00
+website: https://www.bobstores.com/store-details?StoreID=007

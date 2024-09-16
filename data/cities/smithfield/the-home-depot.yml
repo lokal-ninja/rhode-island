@@ -1,11 +1,11 @@
 id: 233329544
-type: way
+type: node
 latitude: 41.8746
 longitude: -71.52153
 postcode: "02917"
 city: Smithfield
-street: "Putnam Pike"
-housenumber: 371
-phone: "+1-401-233-4204"
+street: Putnam Pike
+housenumber: "371"
+phone: +1-401-233-4204
 opening_hours: ""
-website: "https://www.homedepot.com/l/Smithfield/RI/Smithfield/02917/4282"
+website: https://www.homedepot.com/l/Smithfield/RI/Smithfield/02917/4282

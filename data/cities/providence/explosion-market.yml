@@ -1,11 +1,11 @@
 id: 771423864
-type: way
+type: node
 latitude: 41.80967
 longitude: -71.42802
 postcode: "02907"
 city: Providence
-street: "Dexter Street"
-housenumber: 248
+street: Dexter Street
+housenumber: "248"
 phone: ""
 opening_hours: ""
 website: ""

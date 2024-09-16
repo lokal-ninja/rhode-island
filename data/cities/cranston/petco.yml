@@ -1,11 +1,11 @@
 id: 137486384
-type: way
+type: node
 latitude: 41.75494
 longitude: -71.46039
 postcode: "02920"
 city: Cranston
-street: "Chapel Valley Boulevard"
-housenumber: 10
-phone: "+1 401-943-0210"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ri/cranston/pet-supplies-cranston-ri-3705.html"
+street: Chapel Valley Boulevard
+housenumber: "10"
+phone: +1 401-943-0210
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ri/cranston/pet-supplies-cranston-ri-3705.html

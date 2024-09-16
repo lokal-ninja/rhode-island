@@ -4,8 +4,8 @@ latitude: 41.6614
 longitude: -71.49495
 postcode: "02818"
 city: East Greenwich
-street: "Division Street"
-housenumber: 1000
-phone: "+1-401-885-8390"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "lesislerose.com"
+street: Division Street
+housenumber: "1000"
+phone: +1-401-885-8390
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
+website: lesislerose.com

@@ -1,11 +1,11 @@
 id: 756039153
-type: way
+type: node
 latitude: 41.49645
 longitude: -71.36874
 postcode: "02835"
 city: Jamestown
-street: "Narragansett Avenue"
-housenumber: 20
+street: Narragansett Avenue
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

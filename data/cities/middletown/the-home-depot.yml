@@ -1,11 +1,11 @@
 id: 411916145
-type: way
+type: node
 latitude: 41.52661
 longitude: -71.30163
 postcode: "02842"
 city: Middletown
-street: "West Main Road"
-housenumber: 862
-phone: "+1 401-845-5092"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/middletown/ri/middletown/02842/4287"
+street: West Main Road
+housenumber: "862"
+phone: +1 401-845-5092
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/middletown/ri/middletown/02842/4287

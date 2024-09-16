@@ -1,11 +1,11 @@
 id: 661601551
-type: way
+type: node
 latitude: 41.51591
 longitude: -71.30034
 postcode: "02842"
 city: Middletown
-street: "West Main Road"
-housenumber: 379
+street: West Main Road
+housenumber: "379"
 phone: "+14013413580"
 opening_hours: ""
-website: "https://www.westmarine.com/stores/middletown-ri-1246"
+website: https://www.westmarine.com/stores/middletown-ri-1246

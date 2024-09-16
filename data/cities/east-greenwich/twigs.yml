@@ -4,8 +4,8 @@ latitude: 41.66131
 longitude: -71.45016
 postcode: "02818"
 city: East Greenwich
-street: "Main Street"
-housenumber: 187
-phone: "+1 401 398 8833"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-13:00"
-website: "https://www.twigsflorist.com/"
+street: Main Street
+housenumber: "187"
+phone: +1 401 398 8833
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-13:00
+website: https://www.twigsflorist.com/

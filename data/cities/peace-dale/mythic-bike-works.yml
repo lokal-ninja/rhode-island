@@ -4,8 +4,9 @@ latitude: 41.45107
 longitude: -71.49901
 postcode: "02879"
 city: Peace Dale
-street: "Kingstown Road"
-housenumber: 1207
-phone: "+1-401-2180029"
-opening_hours: "Mo,Th 09:00-17:00; Tu off; We 12:00-17:00; Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://mythicbikeworks.com"
+street: Kingstown Road
+housenumber: "1207"
+phone: +1-401-2180029
+opening_hours: Mo,Th 09:00-17:00; Tu off; We 12:00-17:00; Fr 09:00-18:00; Sa 09:00-14:00;
+    PH off
+website: https://mythicbikeworks.com

@@ -1,11 +1,11 @@
 id: 216515086
-type: way
+type: node
 latitude: 41.70471
 longitude: -71.5239
 postcode: ""
 city: West Warwick
-street: "Main Street"
-housenumber: 1236
-phone: "(401) 320-8455"
-opening_hours: "Mo-Su 07:00-23:00"
+street: Main Street
+housenumber: "1236"
+phone: (401) 320-8455
+opening_hours: Mo-Su 07:00-23:00
 website: ""

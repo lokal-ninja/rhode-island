@@ -1,11 +1,11 @@
 id: 147059246
-type: way
+type: node
 latitude: 41.68343
 longitude: -71.49675
 postcode: "02818"
 city: Warwick
-street: "Quaker Lane"
-housenumber: 510
-phone: "+1 401-822-6300"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=1197"
+street: Quaker Lane
+housenumber: "510"
+phone: +1 401-822-6300
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=1197

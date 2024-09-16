@@ -4,8 +4,9 @@ latitude: 41.66063
 longitude: -71.45011
 postcode: "02818"
 city: East Greenwich
-street: "Main Street"
-housenumber: 235
-phone: "+1-401-782-9400"
-opening_hours: "Mo 11:00-17:00; We 11:00-17:00; Th 11:00-18:00; Fr 11:00-17:00; Su 11:00-14:00"
-website: "https://therapyboutique.com/"
+street: Main Street
+housenumber: "235"
+phone: +1-401-782-9400
+opening_hours: Mo 11:00-17:00; We 11:00-17:00; Th 11:00-18:00; Fr 11:00-17:00; Su
+    11:00-14:00
+website: https://therapyboutique.com/

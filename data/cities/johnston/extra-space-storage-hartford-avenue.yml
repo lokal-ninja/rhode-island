@@ -1,11 +1,11 @@
 id: 1156379390
-type: way
+type: node
 latitude: 41.82647
 longitude: -71.5099
 postcode: "02919"
 city: Johnston
-street: "Hartford Avenue"
-housenumber: 1640
+street: Hartford Avenue
+housenumber: "1640"
 phone: ""
 opening_hours: ""
 website: ""

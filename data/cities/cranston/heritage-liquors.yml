@@ -1,11 +1,11 @@
 id: 142488756
-type: way
+type: node
 latitude: 41.78469
 longitude: -71.43752
 postcode: "02910"
 city: Cranston
-street: "Reservoir Avenue"
-housenumber: 529
+street: Reservoir Avenue
+housenumber: "529"
 phone: ""
 opening_hours: ""
 website: ""

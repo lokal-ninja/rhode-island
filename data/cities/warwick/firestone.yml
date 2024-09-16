@@ -1,11 +1,11 @@
 id: 185995875
-type: way
+type: node
 latitude: 41.72235
 longitude: -71.47829
 postcode: "02886"
 city: Warwick
-street: "Bald Hill Road"
-housenumber: 400
+street: Bald Hill Road
+housenumber: "400"
 phone: "+14017360700"
 opening_hours: ""
-website: "https://www.redrobin.com/menu.html"
+website: https://www.redrobin.com/menu.html

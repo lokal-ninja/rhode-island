@@ -1,11 +1,11 @@
 id: 29318206
-type: way
+type: node
 latitude: 41.581
 longitude: -71.50053
 postcode: "02852"
 city: North Kingstown
-street: "Ten Rod Road"
-housenumber: 1300
+street: Ten Rod Road
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

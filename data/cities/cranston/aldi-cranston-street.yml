@@ -1,11 +1,11 @@
 id: 341283567
-type: way
+type: node
 latitude: 41.80002
 longitude: -71.44913
-postcode: "02920-7533"
+postcode: 02920-7533
 city: Cranston
-street: "Cranston Street"
-housenumber: 1015
-phone: "+1 833-473-7036"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ri/cranston/1015-cranston-street"
+street: Cranston Street
+housenumber: "1015"
+phone: +1 833-473-7036
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ri/cranston/1015-cranston-street

@@ -1,11 +1,11 @@
 id: 384222887
-type: way
+type: node
 latitude: 41.77801
 longitude: -71.40122
 postcode: "02905"
 city: Cranston
-street: "Broad Street"
-housenumber: 1763
-phone: "+1-401-461-6770"
+street: Broad Street
+housenumber: "1763"
+phone: +1-401-461-6770
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1763+broad+st-cranston-ri-02905/id=3491"
+website: https://www.walgreens.com/locator/walgreens-1763+broad+st-cranston-ri-02905/id=3491

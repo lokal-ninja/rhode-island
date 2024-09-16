@@ -4,8 +4,8 @@ latitude: 41.81862
 longitude: -71.4007
 postcode: "02903"
 city: Providence
-street: "South Main Street"
-housenumber: 423
-phone: "+1 401-321-3900"
-opening_hours: "Mo 13:00-16:30; Tu-Sa 11:00-18:00"
-website: "https://www.shadesus.com/"
+street: South Main Street
+housenumber: "423"
+phone: +1 401-321-3900
+opening_hours: Mo 13:00-16:30; Tu-Sa 11:00-18:00
+website: https://www.shadesus.com/

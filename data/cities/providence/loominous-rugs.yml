@@ -4,8 +4,8 @@ latitude: 41.82836
 longitude: -71.40977
 postcode: "02903"
 city: Providence
-street: "North Main Street"
-housenumber: 126
-phone: "+1-401-455-1010"
+street: North Main Street
+housenumber: "126"
+phone: +1-401-455-1010
 opening_hours: ""
-website: "https://loominousrugs.com/"
+website: https://loominousrugs.com/

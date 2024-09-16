@@ -1,11 +1,11 @@
 id: 377304466
-type: way
+type: node
 latitude: 41.35572
 longitude: -71.81118
 postcode: "02891"
 city: Westerly
-street: "Airport Road"
-housenumber: 19
-phone: "+1 401-348-5023"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ri/westerly/1152"
+street: Airport Road
+housenumber: "19"
+phone: +1 401-348-5023
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ri/westerly/1152

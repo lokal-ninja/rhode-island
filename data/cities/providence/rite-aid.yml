@@ -1,11 +1,11 @@
 id: 584667237
-type: way
+type: node
 latitude: 41.8502
 longitude: -71.42085
 postcode: "02904"
 city: Providence
-street: "Branch Avenue"
-housenumber: 456
-phone: "+1 401 331 3554"
+street: Branch Avenue
+housenumber: "456"
+phone: +1 401 331 3554
 opening_hours: ""
 website: ""

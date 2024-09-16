@@ -1,11 +1,11 @@
 id: 489007124
-type: way
+type: node
 latitude: 41.61803
 longitude: -71.4589
 postcode: "02852"
 city: North Kingston
-street: "Post Road"
-housenumber: 6595
+street: Post Road
+housenumber: "6595"
 phone: "+14018858474"
 opening_hours: ""
-website: "https://www.cgcri.com/"
+website: https://www.cgcri.com/

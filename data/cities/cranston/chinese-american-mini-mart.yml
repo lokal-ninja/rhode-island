@@ -1,11 +1,11 @@
 id: 141874861
-type: way
+type: node
 latitude: 41.77881
 longitude: -71.43543
 postcode: "02910"
 city: Cranston
-street: "Park Avenue"
-housenumber: 834
+street: Park Avenue
+housenumber: "834"
 phone: ""
 opening_hours: ""
 website: ""

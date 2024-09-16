@@ -4,8 +4,8 @@ latitude: 41.83738
 longitude: -71.40853
 postcode: "02904"
 city: Providence
-street: "North Main Street"
-housenumber: 601
-phone: "+1 401-621-5990"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/university"
+street: North Main Street
+housenumber: "601"
+phone: +1 401-621-5990
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/university

@@ -1,11 +1,11 @@
 id: 835374876
-type: way
+type: node
 latitude: 41.86693
 longitude: -71.50225
 postcode: "02919"
 city: Johnston
-street: "Putnam Pike"
-housenumber: 199
+street: Putnam Pike
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

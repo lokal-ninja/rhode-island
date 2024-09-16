@@ -1,11 +1,11 @@
 id: 141543144
-type: way
+type: node
 latitude: 41.79226
 longitude: -71.41638
 postcode: "02907"
 city: Providence
-street: "Cadillac Drive"
-housenumber: 101
-phone: "+1 401 781 6688"
-opening_hours: "Mo-Su 08:30-20:30"
-website: "https://goodfortunesupermarket.com/"
+street: Cadillac Drive
+housenumber: "101"
+phone: +1 401 781 6688
+opening_hours: Mo-Su 08:30-20:30
+website: https://goodfortunesupermarket.com/

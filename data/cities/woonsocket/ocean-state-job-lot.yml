@@ -1,11 +1,11 @@
 id: 985542692
-type: way
+type: node
 latitude: 42.01278
 longitude: -71.47069
 postcode: "02895"
 city: Woonsocket
-street: "Diamond Hill Road"
-housenumber: 1919
+street: Diamond Hill Road
+housenumber: "1919"
 phone: ""
 opening_hours: ""
 website: ""

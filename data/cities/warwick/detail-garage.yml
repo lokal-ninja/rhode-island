@@ -1,11 +1,11 @@
 id: 671948411
-type: way
+type: node
 latitude: 41.70735
 longitude: -71.49146
 postcode: "02886"
 city: Warwick
-street: "Bald Hill Road"
-housenumber: 1170
-phone: "(401) 823-8500"
-opening_hours: "Mo-Sa 10:00-18:00, Su 10:00-16:00"
-website: "https://www.detailgarage.com/ri_warwick.html"
+street: Bald Hill Road
+housenumber: "1170"
+phone: (401) 823-8500
+opening_hours: Mo-Sa 10:00-18:00, Su 10:00-16:00
+website: https://www.detailgarage.com/ri_warwick.html

@@ -1,11 +1,11 @@
 id: 1289009400
-type: way
+type: node
 latitude: 41.80621
 longitude: -71.49082
 postcode: "02919"
 city: Johnston
-street: "Atwood Avenue"
-housenumber: 1215
+street: Atwood Avenue
+housenumber: "1215"
 phone: "+14019469607"
 opening_hours: ""
-website: "https://atwoodsuperwash.com/index.html"
+website: https://atwoodsuperwash.com/index.html

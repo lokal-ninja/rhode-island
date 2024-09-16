@@ -1,11 +1,11 @@
 id: 1289009398
-type: way
+type: node
 latitude: 41.8065
 longitude: -71.49142
 postcode: "02919"
 city: Johnston
-street: "Atwood Avenue"
-housenumber: 1225
+street: Atwood Avenue
+housenumber: "1225"
 phone: "+14019428671"
 opening_hours: ""
 website: ""

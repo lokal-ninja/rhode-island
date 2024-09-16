@@ -1,11 +1,11 @@
 id: 885171850
-type: way
+type: node
 latitude: 41.90312
 longitude: -71.3914
-postcode: "02864-8328"
+postcode: 02864-8328
 city: Cumberland
-street: "Broad Street"
-housenumber: 159
-phone: "+1 401-725-3723"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su 08:00-12:30"
-website: "https://www.acehardware.com/store-details/04530"
+street: Broad Street
+housenumber: "159"
+phone: +1 401-725-3723
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su 08:00-12:30
+website: https://www.acehardware.com/store-details/04530

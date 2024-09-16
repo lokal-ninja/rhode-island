@@ -4,8 +4,8 @@ latitude: 41.37163
 longitude: -71.8307
 postcode: "02891"
 city: Westerly
-street: "Main Street"
-housenumber: 166
+street: Main Street
+housenumber: "166"
 phone: ""
-opening_hours: "Mo-Th 12:00-17:00; Fr 12:00-19:00 || on appointment"
+opening_hours: Mo-Th 12:00-17:00; Fr 12:00-19:00 || "on appointment"
 website: ""

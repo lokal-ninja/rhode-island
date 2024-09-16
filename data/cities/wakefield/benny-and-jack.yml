@@ -1,11 +1,11 @@
 id: 528785496
-type: way
+type: node
 latitude: 41.44006
 longitude: -71.48686
 postcode: "02879"
 city: Wakefield
-street: "Kingstown Road"
-housenumber: 577
+street: Kingstown Road
+housenumber: "577"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 870636394
-type: way
+type: node
 latitude: 41.48656
 longitude: -71.31485
 postcode: "02840"
 city: Newport
-street: "Thames Street"
-housenumber: 262
+street: Thames Street
+housenumber: "262"
 phone: ""
 opening_hours: ""
 website: ""
