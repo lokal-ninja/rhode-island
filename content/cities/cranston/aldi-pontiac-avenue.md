@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /cranston/aldi-cranston-street/
+url: /cranston/aldi-pontiac-avenue/
 shop: supermarket
 ---
