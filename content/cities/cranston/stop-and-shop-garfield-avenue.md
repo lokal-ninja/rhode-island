@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /providence/stop-and-shop-manton-avenue/
+url: /cranston/stop-and-shop-garfield-avenue/
 shop: supermarket
 ---
