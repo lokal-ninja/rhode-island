@@ -1,6 +1,6 @@
 ---
 title: West Warwick
 url: /west-warwick/
-latitude: 41.712
-longitude: -71.501
+latitude: 41.696
+longitude: -71.519
 ---
