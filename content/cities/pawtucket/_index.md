@@ -1,6 +1,6 @@
 ---
 title: Pawtucket
 url: /pawtucket/
-latitude: 41.86
-longitude: -71.352
+latitude: 41.883
+longitude: -71.354
 ---
