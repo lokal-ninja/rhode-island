@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /cranston/stop-and-shop-garfield-avenue/
+url: /cranston/stop-and-shop-atwood-avenue/
 shop: supermarket
 ---
