@@ -1,6 +1,6 @@
 ---
 title: East Providence
 url: /east-providence/
-latitude: 41.823
-longitude: -71.356
+latitude: 41.831
+longitude: -71.371
 ---

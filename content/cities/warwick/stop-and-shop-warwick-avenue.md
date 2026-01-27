@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /cranston/stop-and-shop-atwood-avenue/
+url: /warwick/stop-and-shop-warwick-avenue/
 shop: supermarket
 ---
