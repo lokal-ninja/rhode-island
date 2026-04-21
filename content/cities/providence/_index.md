@@ -1,6 +1,6 @@
 ---
 title: Providence
 url: /providence/
-latitude: 41.832
-longitude: -71.467
+latitude: 41.828
+longitude: -71.401
 ---
