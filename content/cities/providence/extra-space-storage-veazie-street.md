@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
-url: /providence/extra-space-storage-eddy-street/
+url: /providence/extra-space-storage-veazie-street/
 shop: storage rental
 ---
