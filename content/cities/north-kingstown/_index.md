@@ -1,6 +1,6 @@
 ---
 title: North Kingstown
 url: /north-kingstown/
-latitude: 41.634
-longitude: -71.469
+latitude: 41.598
+longitude: -71.455
 ---
