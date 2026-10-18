@@ -1,5 +1,5 @@
 ---
 title: "Sense of Style"
-url: /south-kingstown/sense-of-style/
+url: /wakefield/sense-of-style/
 shop: hairdresser
 ---

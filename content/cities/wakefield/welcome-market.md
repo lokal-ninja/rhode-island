@@ -1,5 +1,5 @@
 ---
 title: "Welcome Market"
-url: /wakefield-peacedale/welcome-market/
+url: /wakefield/welcome-market/
 shop: convenience
 ---
