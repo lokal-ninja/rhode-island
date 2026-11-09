@@ -2,5 +2,5 @@
 title: Westerly
 url: /westerly/
 latitude: 41.372
-longitude: -71.82
+longitude: -71.831
 ---
